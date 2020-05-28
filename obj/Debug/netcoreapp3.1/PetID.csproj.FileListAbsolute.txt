@@ -1,0 +1,13 @@
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.exe
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.deps.json
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.runtimeconfig.json
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.runtimeconfig.dev.json
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.dll
+C:\Users\jerem\PetID\bin\Debug\netcoreapp3.1\PetID.pdb
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.csprojAssemblyReference.cache
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.csproj.CoreCompileInputs.cache
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.AssemblyInfoInputs.cache
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.AssemblyInfo.cs
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.dll
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.pdb
+C:\Users\jerem\PetID\obj\Debug\netcoreapp3.1\PetID.genruntimeconfig.cache
